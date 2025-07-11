@@ -14,4 +14,4 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🕘️更新时间,#genre#
-2025-07-11 18:34:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-07-12 06:39:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
