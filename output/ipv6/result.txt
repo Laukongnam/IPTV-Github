@@ -9,7 +9,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 
 🕘️更新时间,#genre#
-2025-07-20 06:35:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-07-20 18:35:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
