@@ -10,4 +10,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 
 🕘️更新时间,#genre#
-2025-07-21 06:42:05,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-07-21 18:47:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
